@@ -1,0 +1,29 @@
+{
+  "name": "stock-predictor",
+  "version": "1.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build"
+  },
+  "dependencies": {
+    "@angular/common": "^17.2.0",
+    "@angular/core": "^17.2.0",
+    "@angular/forms": "^17.2.0",
+    "@angular/platform-browser": "^17.2.0",
+    "@angular/platform-browser-dynamic": "^17.2.0",
+    "@angular/router": "^17.2.0",
+    "bootstrap": "^5.3.2",
+    "chart.js": "^4.4.9",
+    "ng2-charts": "^4.1.1",
+    "rxjs": "^7.8.0",
+    "zone.js": "~0.13.0"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^17.2.0",
+    "@angular/cli": "^17.2.0",
+    "@angular/compiler": "^17.2.0",
+    "@angular/compiler-cli": "^17.2.0",
+    "typescript": "~5.4.2"
+  }
+}
